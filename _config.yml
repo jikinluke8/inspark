@@ -14,12 +14,13 @@ email:
 facebook_username: inspark
 twitter_username: insparklife
 github_username: jikinluke8
-address:
+address: Seattle, WA
   - line:
   - line:
   # Feel free to add more lines here 
 telephone:
 copyright:
+highlight: rouge
 
 # API settings
 google_api_key:
